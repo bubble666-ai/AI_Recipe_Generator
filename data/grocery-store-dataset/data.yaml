@@ -1,0 +1,29 @@
+names:
+- Asparagus
+- Brinjal
+- Cabbage
+- Capsicum
+- Carrot
+- Cucumber
+- Floury potato
+- Garlic
+- Ginger
+- Leek Leaves
+- Mushroom
+- Onion
+- Redchilli
+- Solid potato
+- Sweet potato
+- Tomato
+- Tomato-
+- beetroot
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: grocery-store-dataset-opzzt
+  url: https://universe.roboflow.com/grocery-store-dataset/grocery-store-dataset-opzzt/dataset/1
+  version: 1
+  workspace: grocery-store-dataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images
