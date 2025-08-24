@@ -1,12 +1,14 @@
 # 🍳 AI Recipe Generator
 
-This is a smart web application that generates a creative, complete recipe in Persian based on an image of ingredients. This project showcases the power of combining different AI services (Computer Vision and NLP) to solve a fun and practical problem.
+This is a smart web application that generates a creative, complete recipe in English based on an image of ingredients. This project showcases the power of combining different AI services (Computer Vision and NLP) to solve a fun and practical problem.
 
 ---
 
 ### 📸 Live Demo
 
 [Insert a cool GIF or screenshot of the app in action here. Upload your image/GIF to the GitHub repository and link it here.]
+<img width="1919" height="948" alt="screen recipie" src="https://github.com/user-attachments/assets/81099513-2f97-45ed-939c-07c6c2fca1de" />
+<img width="1919" height="953" alt="Screenshot 2025-08-24 020234" src="https://github.com/user-attachments/assets/803e1ccd-5c22-4a1e-806d-c58a88ff7d71" />
 
 ---
 
